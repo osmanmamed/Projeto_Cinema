@@ -1,0 +1,15 @@
+
+/* Cada filme com uma cor específica */
+h1 {
+    font-style: italic;
+    color: darkblue;   /* Azul */
+}
+
+p {
+  color: darkred.;  /* Verde */
+  font-style: oblique;
+}
+
+a {
+  color: purple;     /* Roxo */
+}
