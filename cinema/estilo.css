@@ -1,15 +1,23 @@
 
 /* Cada filme com uma cor específica */
-h1 {
-    font-style: italic;
-    color: darkblue;   /* Azul */
-}
-
-p {
-  color: darkred.;  /* Verde */
-  font-style: oblique;
-}
-
 a {
-  color: purple;     /* Roxo */
+  text-decoration: none; /* remove o sublinhado */
+  color: seagreen; /* opcional, define a cor do texto */
 }
+.darkred { 
+  color: darkred; 
+  font-size: 20px;
+  font-family: Arial;
+}
+
+.darkred { 
+  color: darkred;
+  font-size: 20px;
+  font-family: Arial;
+ }
+
+.darkblue {
+   color: darkblue;
+   font-size: 20px;
+   font-family: Arial;
+   }
